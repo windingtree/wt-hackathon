@@ -1,0 +1,3 @@
+[submodule "zOS"]
+	path = zOS
+	url = git@github.com:zeppelinos/labs.git
