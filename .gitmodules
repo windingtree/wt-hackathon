@@ -1,0 +1,3 @@
+[submodule "zOS"]
+	path = zOS
+	url = git@github.com:windingtree/zOS-labs.git
