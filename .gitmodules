@@ -1,3 +1,6 @@
 [submodule "zOS"]
 	path = zOS
 	url = git@github.com:windingtree/zOS-labs.git
+[submodule "eternalStorage-labs"]
+	path = eternalStorage-labs
+	url = git@github.com:windingtree/eternalStorage-labs.git
