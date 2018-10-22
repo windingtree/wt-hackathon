@@ -13,12 +13,12 @@ See rules file.
 
 ## Hackathon Information
 
-See [info](https://github.com/windingtree/wt-hackathon/info) folder.
+See [info](https://github.com/windingtree/wt-hackathon/tree/master/info) folder.
 
 ## Project Submissions
 
-See [submissions](https://github.com/windingtree/wt-hackathon/submissions) folder.
+See [submissions](https://github.com/windingtree/wt-hackathon/tree/master/submissions) folder.
 
 ## Technical Resources
 
-See [resources](https://github.com/windingtree/wt-hackathon/resources) folder.
+See [resources](https://github.com/windingtree/wt-hackathon/tree/master/resources) folder.
