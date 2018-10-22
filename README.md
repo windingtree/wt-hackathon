@@ -9,7 +9,7 @@ Winding Tree hackathons are events organized by the Winding Tree Foundation focu
 
 ## Rules
 
-See rules file.
+See [rules](https://github.com/windingtree/wt-hackathon/tree/master/info/rules.md) file.
 
 ## Hackathon Information
 
