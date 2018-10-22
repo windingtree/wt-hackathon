@@ -2,10 +2,8 @@
 
 ## Venue
 
-Paralelní Polis
-Dělnická 475/43, Praha, Czech Republic
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10236.346530536417!2d14.4505577!3d50.1033854!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xcad994427e27c9c0!2sParaleln%C3%AD+Polis!5e0!3m2!1sen!2scz!4v1540221891112" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+[Paralelní Polis
+Dělnická 475/43, Praha, Czech Republic](https://www.google.com/maps/place/Paraleln%C3%AD+Polis/@50.1033854,14.4505577,15z/data=!4m5!3m4!1s0x0:0xcad994427e27c9c0!8m2!3d50.1033854!4d14.4505577)
 
 ## Schedule
 
