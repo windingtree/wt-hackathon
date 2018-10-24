@@ -80,8 +80,8 @@ October 25
 - Augusto Lemble - Winding Tree. <augusto@windingtree.com>
 - Makoto Inoue - ENS. <hynek.urban@fragaria.cz>
 - Daniel Nagy - Swarm. <hi@elad.im>
-- TBD - Hotel specialist.
-- TBD - Airline specialist.
+- Mathieu Tahon - Airline Specialist <mathieu.tahon@noath.net>
+- Luke Bujarski - Travel Industry Researcher https://luft.net/
 - Simona Pop - Bounties Network <simona.pop@bounties.network>.
 
 ## Judging Criteria
