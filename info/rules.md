@@ -13,7 +13,7 @@ Keep in mind that hackathons are kind of like marathons. Some people participate
 - At the time of forming teams (2:00pm-2:30pm) we’ll ask you to propose your hack idea to the crowd and invite hackers to join your team. Not everyone will author an idea and that’s fine — if you don’t have one, just join another team.
 - All teams must be open for accepting team members. In the spirit of an open source technology hackathon — no closed / private teams please.
 - We don’t have minimum or maximum size for a team, but keep it fair. A team with over 6–7 members might end up having purely people-hours advantage over a 2 members team. If your idea attracted a lot of people — split it up into several projects tackling different angles.
-- We encourage everyone to spend at least 30 minutes of your time to share your knowledge with other s— meet the teams, learn what they are working on, offer help brainstorming, researching, providing peer review & feedback, contributing code AND earn some bounties for that.
+- We encourage everyone to spend at least 30 minutes of your time to share your knowledge with others - meet the teams, learn what they are working on, offer help brainstorming, researching, providing peer review & feedback, contributing code AND earn some bounties for that.
 
 ## Submissions
 
