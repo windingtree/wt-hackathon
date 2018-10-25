@@ -1,11 +1,11 @@
 
 # Team name.
 WIPU HOTEL CROSS SELL
-## Team
-William | metasimian@gmail.com  | metasimian
-Ian | ian@2pventures.com  | ieggleton
-Peter | peter@2pventures.com  | swainp
-Umer | umer.a.rasheed@gmail.com  | umerrasheed
+## Team (Name | email | github)
+(William | metasimian@gmail.com  | metasimian)
+(Ian | ian@2pventures.com  | ieggleton)
+(Peter | peter@2pventures.com  | swainp)
+(Umer | umer.a.rasheed@gmail.com  | umerrasheed)
 
 ## Github repository of the project.
 Link to repo
