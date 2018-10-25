@@ -7,8 +7,17 @@ Ian | ian@2pventures.com  | ieggleton
 Peter | peter@2pventures.com  | swainp
 Umer | umer.a.rasheed@gmail.com  | umerrasheed
 
-##Github repository of the project.
+## Github repository of the project.
 Link to repo
+https://github.com/swainp/wt-contracts
+https://github.com/ieggleton/windingtee-java-eth-api
+https://github.com/swainp/wt-read-api
+https://github.com/swainp/wt-write-api
+
+
+## Presentation Link
+https://docs.google.com/presentation/d/157hmldV39dWhH8i-PVKdOo3i3ys-67A3E-ZzfWRd7jE/edit#slide=id.g44213db4e9_0_0
+
 ## Description
 Hotel Cross-Sell
 
