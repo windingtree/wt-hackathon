@@ -4,8 +4,8 @@ Winding Tree hackathons are events organized by the Winding Tree Foundation focu
 
 ## Events
 
-- WT Hackathon #1 - 24/10-25/10, Prague, Czech Republic
-- WT Hackathon #2 - TBD
+- WT Hackathon #1 - October 24-25 2018, Prague, Czech Republic
+- WT Hackathon #2 - July 3-5 2019, Lisbon, Portugal
 
 ## Rules
 
