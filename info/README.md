@@ -1,99 +1,71 @@
-# WT Hackathon #1 - Prague, Czech Republic
+# WT Hackathon #2 - Lisbon, Portugal
+
+Keep in mind that hackathons are kind of like marathons. Some people participate to compete and win, but most people take part to learn something new and have fun. Whatever the reason is you’re joining us, make sure you’re honoring the hacker spirit by collaborating with other teams, helping beginners, and having fun.
 
 ## Venue
 
-[Paralelní Polis
-Dělnická 475/43, Praha, Czech Republic](https://www.google.com/maps/place/Paraleln%C3%AD+Polis/@50.1033854,14.4505577,15z/data=!4m5!3m4!1s0x0:0xcad994427e27c9c0!8m2!3d50.1033854!4d14.4505577)
+[LX Factory
+Rua Rodrigues Faria, 103, 1300 – 501 Lisboa, Portugal](https://www.google.com/maps/place/LxFactory/@38.7035266,-9.1810367,17z/data=!3m1!4b1!4m5!3m4!1s0xd1934af61dedbe5:0x33ebaaaa14f543ac!8m2!3d38.7035224!4d-9.1788427)
 
 ## Schedule
 
-### October 24
-
-#### Location: Paralelni Polis
-
-- 8:00am: Doors Open, Registration, Coffee, Breakfast and Social Time (Bitcoin Coffee)
-
-- 9:00am - 10:00am: Keynotes (Main Hall)
-
-  The State of Development and Adoption of Blockchain Technology in Travel Industry
-  Welcome note from the team and intro to hackathon schedule, rules and challenges
-
-- 10:00am - 2:00pm: Tech Talks (Main Hall)
-
-  Intro to Smart Contracts (Augusto Lemble, Winding Tree Blockchain Architect)
-  Introduction to Ethereum Name Service (Makoto Inoue, ENS Developer)
-  Introduction to Swarm Distributed Databases (Elad Nachmias, Swarm Developer)
-  Winding Tree Platform Overview (Core Winding Tree Developers)
-
-- 12:00pm - 1:00pm: Lunch & Social Time (Bitcoin Coffee) - meet fellow hackers & discuss hack ideas.
-
-- 2:00pm - 2:30pm: Hacker Teams form (Main Hall) - we’ll ask you to propose your hack idea so that others can join your team.
-
-- 7:00pm: Dinner & Drinks (Bitcoin Coffee) - take a break before your all-nighter, have some food and drinks with us.
-
-- 8:00pm+ Hacking Continues (Coworking Space) - stay late or all night to hack, we got you covered with coffee and snacks.
-
-### October 25
-
-#### Location: Paralelni Polis
-
-- 8:00am: Doors Open, Registration, Coffee, Breakfast and Social Time (Bitcoin Coffee)
-
-- 9:00am - 10:00am: Winding Tree Platform Demos (Bitcoin Coffee)
-
-- 10:00am - 2:00pm: Hacking Continues (Coworking Space + Bitcoin Coffee)
-
-- 12:00pm - 1:00pm: Lunch & Social Time (Bitcoin Coffee)
-
-- 2:00pm: Hacking Stops, Project Submissions Due (Submit online)
-
-- 2:00pm - 5:00pm: Hack Demos, Judges Feedback (Main Hall)
-
-- 5:00pm - 6:00pm: Very Happy Hour! (Bitcoin Coffee)
-October 25
-
-#### Location: Cross Club
-
-- 7:00pm till late: After Party & Hacker Awards - join us to celebrate and make new friends in travel tech & blockchain space! Bonus - the winners of the hackathon will be announced during the After Party - don’t miss out on the awards ceremony! Drinks included, good times guaranteed! FREE Entry with hackathon badges.
+[On our web](https://windingtree.com/hacktravelprogram)
 
 ## Team contact information
 
-- Marina Berezovska - Hackathon Organizer. <marina@winidngtree.com>
-- Jakub Vysoky - Hackers coordinator. <jakub@winidngtree.com>
-- Augusto Lemble - Tech talks & judging coordinator coordinator. <augusto@winidngtree.com>
+- Aljona Burdune - Organizer <aljona.burdune@gmail.com>
+- Jakub Vysoky - Hackers coordinator <jakub@winidngtree.com>
+- Jirka Chadima - Tech lead <jiri.chadima@fragaria.cz>
+
+Support chat: https://gitter.im/windingtree/lisbon-2019-support
 
 ## Mentors contacts
 
-- Augusto Lemble - Winding Tree. <augusto@windingtree.com>
-- Matias Oveja Smith - Winding Tree. <matias@windingtree.com>
-- Jakub Vysoky - Winding Tree. <jakub@windingtree.com>
-- Jiri Chadima - Winding Tree. <jiri.chadima@fragaria.cz>
-- Robin Gottfried - Winding Tree. <robin.gottfried@fragaria.cz>
-- Hynek Urban - Winding Tree. <hynek.urban@fragaria.cz>
-- Franco Berdun - Blockchain Developer . <fberdun@gmail.com>
-- Makoto Inoue - ENS. <hynek.urban@fragaria.cz>
-- Elad Nachmias - Swarm. <hi@elad.im>
-- Mathieu Tahon - Airline Specialist <mathieu.tahon@noath.net>
+- Jakub Vysoky - Winding Tree <jakub@windingtree.com>
+- Jirka Chadima - Winding Tree <jiri.chadima@fragaria.cz>
+- Ondřej Chmelař - Winding Tree <ondrej.chmelar@fragaria.cz>
 
 ## Judges
 
-- Augusto Lemble - Winding Tree. <augusto@windingtree.com>
-- Makoto Inoue - ENS. <hynek.urban@fragaria.cz>
-- Daniel Nagy - Swarm. <hi@elad.im>
-- Mathieu Tahon - Airline Specialist <mathieu.tahon@noath.net>
-- Luke Bujarski - Travel Industry Researcher https://luft.net/
-- Simona Pop - Bounties Network <simona.pop@bounties.network>.
+TBA
+
+## Submissions
+
+See [submissions](https://github.com/windingtree/wt-hackathon/tree/master/submissions) folder.
 
 ## Judging Criteria
 
-The projects will be selected based on:
-- Technicality: How hard was it to build this and how does the quality of the codebase compare?
-- Originality: Is this something completely new or are there already projects with grant funding working on a similar scope??
-- Practicality: How would this submission survive in the real world, outside of the crypto community? Or, if the project were to be specifically targeted to the crypto community, how correctly targeted is it?
-- WOW Factor: What else is there about the submission? Has this project and/or team defied expectations, based on timing, efforts, etc?
+TBA
+
 
 ## Prizes
 
-- 4 prizes of 1k USD each, payed in ETH to projects selected by the judges.
-- 1 prize of 1k USD to a project choose by the public.
-- The prizes will be distributed through gitcoin.co.
+TBA
+
+
+## Hack Projects
+
+- You can choose any idea to work on, but you should present only what you created during the hackathon.
+- To make it a bit easier to choose an idea — we’re offering [industry challenges](https://github.com/windingtree/wt-hackathon/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A%22%F0%9F%91%8D+Approved%22++label%3A%22Lisbon+2019%22) as an inspiration to you. Hacking one of those helps to solve real industry pain points & qualifies for more prizes.
+- The hack project MUST be open source. Don't forget to [add a license](https://choosealicense.com/).
+- All work on the project must be done at the hackathon.
+
+## Teams
+
+- You’ll have a chance to meet fellow hackers, discuss ideas and form teams during social times, breakfast, lunch and right after tech talks. Check out the [full schedule](https://windingtree.com/hacktravelprogram).
+- At the time of forming teams (1:00pm-1:30pm) you will have the opportunity to propose your hack idea to the crowd and invite hackers to join your team. Not everyone will author an idea and that’s fine — if you don’t have one, just join another team.
+- All teams must be open for accepting team members. In the spirit of an open source technology hackathon — no closed/private teams please.
+- We don’t have minimum or maximum size for a team, but keep it fair. A team with over 6–7 members might end up having purely people-hours advantage over a 2 members team. If your idea attracted a lot of people — split it up into several projects tackling different angles.
+- We encourage everyone to spend some time to share your knowledge with others - meet the teams, learn what they are working on, offer help, brainstorm, research, provide peer review & feedback, contribute code and have a good time.
+
+## Submissions
+
+See [submissions](https://github.com/windingtree/wt-hackathon/tree/master/submissions) folder.
+
+## Presenting
+
+- Every project will get presented at July 5 3PM.
+- Each presentation is 3 minutes long + 5 minutes for questions and feedback. We encourage your entire team to come up in front of the audience.
+- The order of presentations will be determined and announced on the spot.
+- All teams are highly encouraged to present their hack to the community. It’s OK if you haven’t finished and your hack is not in its perfect state. The community and the judges will want to see the evidence of your effort and persistence in solving your challenge.
+- In case you don’t have anything to demo, you can still present your idea, what you tried out and what you learned in the process.
