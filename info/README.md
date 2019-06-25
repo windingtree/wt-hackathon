@@ -49,6 +49,7 @@ TBA
 - To make it a bit easier to choose an idea — we’re offering [industry challenges](https://github.com/windingtree/wt-hackathon/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A%22%F0%9F%91%8D+Approved%22++label%3A%22Lisbon+2019%22) as an inspiration to you. Hacking one of those helps to solve real industry pain points & qualifies for more prizes.
 - The hack project MUST be open source. Don't forget to [add a license](https://choosealicense.com/).
 - All work on the project must be done at the hackathon.
+- Your project should be publicly hosted if possible. It will make judging easier.
 
 ## Teams
 
