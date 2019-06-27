@@ -59,17 +59,17 @@ message using one of OrgID's associatedKeys and sends the response.*
 
 #### Response:
 *Riskline*
+
 - *checks whether the nonce was issued by Riskline,*
 - *re-created the signed message (`nonce` + `.` + `org_id_address`),*
 - *extracts signee from `signature` (using ethereum ecRecover function) and*
 - *verifies that the extracted signee is in OrgID.associatedKeys (by calling
-OrgID.hasAssociatedKey).*
+   OrgID.hasAssociatedKey).*
 *If the verification succeeds, it returns OrgID's access token.*
+
 
     201 Created
 
     {
         "token": "secret-token-for-the-org-id-address"
     }
-    
-
