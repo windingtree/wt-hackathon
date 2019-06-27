@@ -8,10 +8,13 @@ Here is an example of communication which needs to be done to get limited free
 access token.
 
 This protocol is also a proof-of-concept of programatic control of access to an
-API for OrgIDs*
+API for OrgIDs
+
+There is also a code snipped showing how to do sign nonce and verify it using
+javascript and Metamask's web3: https://jsfiddle.net/czervenka/cye5n9m6*
 
 
-Riskline API base url for token acquisition: To be defined.
+**Riskline API base url for token acquisition:** To be defined.
 
 ## Actors:
 
@@ -34,9 +37,7 @@ Riskline API base url for token acquisition: To be defined.
 
 
 #### Response:
-
-    201 Created
-
+201 Created 
     {
         "nonce": "a-unique-string-specific-to-this-challenge-response-series"
     }
@@ -68,7 +69,7 @@ If the verification succeeds, it returns OrgID's access token.*
     201 Created
 
     {
-        "token": "secret-token-for-the-org-id-address",
+        "token": "secret-token-for-the-org-id-address"
     }
     
 
