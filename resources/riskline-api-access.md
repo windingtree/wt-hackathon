@@ -14,8 +14,7 @@ There is also a code snipped showing how to do sign nonce and verify it using
 javascript and Metamask's web3: https://jsfiddle.net/czervenka/cye5n9m6*
 
 
-**Riskline API base url for token acquisition:** To be defined.
-
+**Riskline API base url for token acquisition:** https://api.v2-staging.riskline.com/v2/org-id
 ## Actors:
 
 - Owner of Org ID willing to get a token (further just "OrgID")
@@ -28,12 +27,7 @@ javascript and Metamask's web3: https://jsfiddle.net/czervenka/cye5n9m6*
 
 #### Request:
 
-    POST /api/nonce
-    content-type: application/json; charset: utf-8
-
-    {
-        "org_id_address": "0xab97c6afe5a025d1dff5341d935e21dfb8e5c468"
-    }
+    POST /nonce
 
 
 #### Response:
@@ -48,7 +42,7 @@ javascript and Metamask's web3: https://jsfiddle.net/czervenka/cye5n9m6*
 *OrgId creates message to sign as: `nonce` + `.` + `org_id_address`, signs the
 message using one of OrgID's associatedKeys and sends the response.*
 
-    POST /token/
+    POST /token
     content-type: application/json; charset: utf-8
 
     {
@@ -71,5 +65,6 @@ message using one of OrgID's associatedKeys and sends the response.*
     201 Created
 
     {
-        "token": "secret-token-for-the-org-id-address"
+        "token": "secret-token-for-the-org-id-address",
+        "company_key": "key-for-the-org-id"
     }
