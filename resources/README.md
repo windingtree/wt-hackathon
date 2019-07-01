@@ -1,5 +1,7 @@
 # Technical Resources
 
+[**Have a question? Hit us up on Gitter!**](https://gitter.im/windingtree/lisbon-2019-support)
+
 - **Winding Tree Developers Portal: https://developers.windingtree.com**
 - Winding Tree Debugging Tools: https://debugging-tools.windingtree.com/
 - Ethereum Developers Resources: https://www.ethereum.org/developers/

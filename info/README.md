@@ -1,5 +1,7 @@
 # WT Hackathon #2 - Lisbon, Portugal
 
+[**Have a question? Hit us up on Gitter!**](https://gitter.im/windingtree/lisbon-2019-support)
+
 Keep in mind that hackathons are kind of like marathons. Some people participate to compete and win, but most people take part to learn something new and have fun. Whatever the reason is you’re joining us, make sure you’re honoring the hacker spirit by collaborating with other teams, helping beginners, and having fun.
 
 ## Venue
