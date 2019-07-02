@@ -20,6 +20,7 @@ TBA
 - There's a lot of outdated or broken tools and tutorials on Ethereum. Be careful on which version you are using.
 - If you're working on smart contracts, you can use an excellent [openzeppelin](https://openzeppelin.org/) library.
 - [web3.js](https://github.com/ethereum/web3.js/) has some serious issues with versioning. There was a lot of breaking changes after `1.0.0-beta.38`. You can use the [latest documented version](https://web3js.readthedocs.io/en/1.0/), but some of the libraries (like truffle, wt-js-libs) might not (probably won't actually) work with the latest version.
+- If ETH faucets don't work for you, ask us. We should be able to transfer some Ropsten Ether to you.
 
 ## Running Winding Tree environment
 
