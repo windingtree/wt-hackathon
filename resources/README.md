@@ -8,7 +8,13 @@
 
 ## Presentation Slides
 
-TBA
+### Day 1
+
+- Maksim Izmaylov (Winding Tree): [Conceptual Introduction to Winding Tree](https://docs.google.com/presentation/d/1Ye_9aM2fNLcSndTemeTnuSlzU2OB4XspqaQqCYwzKrM/edit?usp=sharing)
+- Mikoláš Belec (Siesta Cloud)
+    - Siesta Cloud - Explainer: https://youtu.be/3QERRHMMz6w
+    - Siesta Cloud & Winding Tree Tutorial: https://medium.com/siesta-cloud/siesta-cloud-winding-treetutorial-2044608bc209
+
 
 ## Random tips
 
