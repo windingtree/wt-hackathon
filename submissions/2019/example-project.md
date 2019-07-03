@@ -4,9 +4,9 @@ Here comes a short one liner description of the project.
 
 ## Team Members
 
-Jakub Vysoky, jakub@windingtree.com, @kvbik
-Augusto Lemble, augusto@windingtree.com, @AugustoL
-Full Name, email@address.com, @github
+* Jakub Vysoky, jakub@windingtree.com, @kvbik
+* Augusto Lemble, augusto@windingtree.com, @AugustoL
+* Full Name, email@address.com, @github
 
 ## Repository
 
