@@ -2,14 +2,14 @@
 
 ## tl;dr;
 
-Go to [submissions/2019/](2019/) folder.
+Go to the [submissions/2019/](2019/) folder.
 
 ## how to submit
 
 Seems like you have a finished project you want to submit,
 we've tried to make it as simple as possible. You just need to
 create a Pull Request in this repository by copying a file
-in [submissions/2019/](2019/) folder under your desired name and fill
+in the [submissions/2019/](2019/) folder under your desired name and fill
 all the details.
 
 Bear in mind, all projects must have its own git repository,
