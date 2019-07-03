@@ -2,7 +2,7 @@
 
 ## tl;dr;
 
-Go to [2019 directory](2019).
+Go to [submissions/2019 directory](2019).
 
 ## how to submit
 
