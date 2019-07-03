@@ -1,4 +1,4 @@
-# Winding Tree Hackathon Submissions
+# Winding Tree Hackathon #2 Submissions - Lisbon, Portugal
 
 ## tl;dr;
 
