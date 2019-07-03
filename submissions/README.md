@@ -14,7 +14,7 @@ all the details.
 
 Bear in mind, all projects must have its own git repository,
 the code must licensed under some open-source licence (eg: BSD,
-MIT, Apaache, GPL, ...). Repository needs to be linked in the
+MIT, Apache, GPL, ...). Repository needs to be linked in the
 description file.
 
 Only merged files in the [submissions/2019/](2019/) folder will be judged by
