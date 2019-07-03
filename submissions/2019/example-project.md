@@ -29,3 +29,5 @@ some technical decission, obstacles you've faced, and so on.
 
 ## Extra resources
 
+* link to presentation (and/or)
+* link to running instance
