@@ -30,21 +30,23 @@ Support chat: https://gitter.im/windingtree/lisbon-2019-support
 
 ## Judges
 
-TBA
-
-## Submissions
-
-See [submissions](https://github.com/windingtree/wt-hackathon/tree/master/submissions) folder.
+Comittee group of travel experts, engineers, sponsors and Winding Tree core team members.
 
 ## Judging Criteria
 
-TBA
+Big inspiration of Winding Tree hackathon juding process was always ETH hackathons [1].
+In a nutshell, we are looking at these 4 categories:
 
+* Technicality: How hard was it to build this and how does the quality of the codebase compare?
+* Originality: Is this something completely new or are there already projects with grant funding working on a similar scope?
+* Practicality: How would this submission survive in the real world?
+* WOW Factor: What else is there about the submission? Is it using Winding Tree platform?
+
+[1] https://medium.com/ethberlin/open-sourcing-our-judging-process-75b77f6ba459
 
 ## Prizes
 
 TBA
-
 
 ## Hack Projects
 
