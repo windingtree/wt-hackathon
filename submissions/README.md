@@ -2,7 +2,7 @@
 
 ## tl;dr;
 
-Go to [submissions/2019/ directory](2019/).
+Go to [submissions/2019/](2019/) folder.
 
 ## how to submit
 
@@ -17,7 +17,7 @@ the code must licensed under some open-source licence (eg: BSD,
 MIT, Apaache, GPL, ...). Repository needs to be linked in the
 description file.
 
-Only merged files in the [submissions/2019/](2019/) will be judged by
+Only merged files in the [submissions/2019/](2019/) folder will be judged by
 the comittee.
 
 Thanks for all the submissions!
