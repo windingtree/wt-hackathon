@@ -1,4 +1,4 @@
-# WT Hackathon #2 - Lisbon, Portugal
+# Winding Tree Hackathon #2 information - Lisbon, Portugal
 
 [**Have a question? Hit us up on Gitter!**](https://gitter.im/windingtree/lisbon-2019-support)
 
