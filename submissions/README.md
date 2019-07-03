@@ -3,8 +3,8 @@
 ## tl;dr;
 
 in the github web user interface go to the `submissions/2019` folder,
-hit *upload files* button, copy/paste content of `example-project.md`
-file and update it to you needs. Select *Create a new branch for this
+hit *Upload files* button, copy/paste content of the `example-project.md`
+file and update it to your needs. Select *Create a new branch for this
 commit and start a pull request* option.
 
 That is all!
