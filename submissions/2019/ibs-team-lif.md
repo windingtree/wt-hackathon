@@ -1,13 +1,9 @@
 # Full Name of an Example Hackathon Project
-
 Here comes a short one liner description of the project.
 
+
 ## Team Members
-
-* Jakub Vysoky, jakub@windingtree.com, @kvbik
-* Augusto Lemble, augusto@windingtree.com, @AugustoL
-* Full Name, email@address.com, @github
-
+Renjith, Sreehari, Sanddep, Kishore
 ## Repository
 
 https://github.com/our-organisation/hackathon-project-repository.git
