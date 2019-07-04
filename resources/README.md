@@ -21,6 +21,7 @@
 - Mikoláš Belec (Siesta Cloud): [Small and medium travel businesses in the age of blockchain](https://drive.google.com/open?id=1U-Mi7QE5oEDnXoKxpOa8hsnZuwu6yKLc)
 - Joao Gonzaga (Peakwork): [Blockchain in the travel industry](https://drive.google.com/open?id=1nw6TGbD-eKxLIyrpwaeD2QnF-e6nuZZr)
 - Jirka Chadima (Winding Tree): [Winding Tree Platform Introduction - 2019 edition](https://drive.google.com/open?id=1b0WbjNKj0NfNXw_rlW7yw6ZvVoGT4bbsfuUEJGEtYN8)
+    - Example ORG.JSON: https://gist.github.com/JirkaChadima/913ce9bdfb02f943fdf8ac76f30e3ee2
 
 ## Random tips
 
