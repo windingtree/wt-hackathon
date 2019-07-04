@@ -16,6 +16,9 @@
     - Siesta Cloud & Winding Tree Tutorial: https://medium.com/siesta-cloud/siesta-cloud-winding-treetutorial-2044608bc209
 - Jakub Vysoký (Winding Tree): [decentralization!](https://docs.google.com/presentation/d/1ssJn1xS9bvGSnSbPgPzOODYzbE0bcc8ydjo2ChfVbVs/edit?usp=sharing)
 
+### Day 2
+
+TBA
 
 ## Random tips
 
