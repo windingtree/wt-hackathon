@@ -18,7 +18,8 @@
 
 ### Day 2
 
-TBA
+- Mikoláš Belec (Siesta Cloud): [Small and medium travel businesses in the age of blockchain](https://drive.google.com/open?id=1U-Mi7QE5oEDnXoKxpOa8hsnZuwu6yKLc)
+- Joao Gonzaga (Peakwork): [Blockchain in the travel industry](https://drive.google.com/open?id=1nw6TGbD-eKxLIyrpwaeD2QnF-e6nuZZr)
 
 ## Random tips
 
