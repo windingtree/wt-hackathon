@@ -46,7 +46,7 @@ In a nutshell, we are looking at these 4 categories:
 
 ## Prizes
 
-TBA
+3,000 EUR in total!
 
 ## Hack Projects
 
