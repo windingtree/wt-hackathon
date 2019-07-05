@@ -5,7 +5,7 @@ Loyalty Exchange
 ## Team Members
 
 * Sreehari S S, sreehari.sreekumar@ibsplc.com, @sreehari-ibs
-* Renjith K N, augusto@windingtree.com, @renjithpta
+* Renjith K N, renjith.narayanan@ibsplc.com, @renjithpta
 * Sandeep Chandran, sandeep.chandran@ibsplc.com, @github
 * Kishore Raj, kishore.raj@ibsplc.com, @kishore_clouds
 
@@ -50,3 +50,7 @@ we wanted to try loyalty on Lif, But after the conversations with the winding tr
 ## Extra resources
 
 * https://docs.google.com/presentation/d/1eIAwZRGcY1VwmVYvA3WUzwVt0_tqJqrwORyETURzReo/edit?usp=sharing
+
+High Level Application Flow
+
+* https://docs.google.com/presentation/d/1yY1SiXZ1Nw-qlw2q4nrpOuoAAp_Yhoo7dsONCdAO9G8/edit?usp=sharing
