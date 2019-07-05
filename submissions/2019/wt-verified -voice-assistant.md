@@ -12,7 +12,7 @@ Receiving booking and getting public key out of domain SSL certificate, checking
 
 ## Repository
 
-https://github.com/cduongt/wt-hackathon/
+https://github.com/cduongt/wt-hackathon-submission
 
 ## Description
 
