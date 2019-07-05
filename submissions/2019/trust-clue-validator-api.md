@@ -99,7 +99,7 @@ This claim can be cross checked by storing information with the website's domain
 DNS allows to store abritrary information within so called TXT entries that belong to a domain.
 
 Given that the party owning the hotel organization also owns the website and as such holds control of its DNS record,
-it can store its ethereum address within the "_wtaddress.<domain.tld>" TXT entry.
+it can store its ethereum address within the "wtaddress.<domain.tld>" TXT entry.
 
 This way, when queried with an ORG.ID's address, the API can query that organization for its owner and the website.
 With that, it can then query the website's domain DNS record and compare the stored address with the one retrieved
