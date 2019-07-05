@@ -10,7 +10,7 @@ Promote Abu Dhabi tourism by allocating Etihad seats for packaging with hotels a
 
 ## Repository
 
-https://github.com/our-organisation/hackathon-project-repository.git [TBD]
+https://github.com/BowsilAmee/eyvisitad/
 
 ## Description
 Simple and straight forward 
