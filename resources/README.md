@@ -1,27 +1,8 @@
 # Winding Tree Hackathon #2 Technical Resources - Lisbon, Portugal
 
-[**Have a question? Hit us up on Gitter!**](https://gitter.im/windingtree/lisbon-2019-support)
-
 - **Winding Tree Developers Portal: https://developers.windingtree.com**
 - Winding Tree Debugging Tools: https://debugging-tools.windingtree.com/
 - Ethereum Developers Resources: https://www.ethereum.org/developers/
-
-## Presentation Slides
-
-### Day 1
-
-- Maksim Izmaylov (Winding Tree): [Conceptual Introduction to Winding Tree](https://docs.google.com/presentation/d/1Ye_9aM2fNLcSndTemeTnuSlzU2OB4XspqaQqCYwzKrM/edit?usp=sharing)
-- Mikoláš Belec (Siesta Cloud)
-    - Siesta Cloud - Explainer: https://youtu.be/3QERRHMMz6w
-    - Siesta Cloud & Winding Tree Tutorial: https://medium.com/siesta-cloud/siesta-cloud-winding-treetutorial-2044608bc209
-- Jakub Vysoký (Winding Tree): [decentralization!](https://docs.google.com/presentation/d/1ssJn1xS9bvGSnSbPgPzOODYzbE0bcc8ydjo2ChfVbVs/edit?usp=sharing)
-
-### Day 2
-
-- Mikoláš Belec (Siesta Cloud): [Small and medium travel businesses in the age of blockchain](https://drive.google.com/open?id=1U-Mi7QE5oEDnXoKxpOa8hsnZuwu6yKLc)
-- Joao Gonzaga (Peakwork): [Blockchain in the travel industry](https://drive.google.com/open?id=1nw6TGbD-eKxLIyrpwaeD2QnF-e6nuZZr)
-- Jirka Chadima (Winding Tree): [Winding Tree Platform Introduction - 2019 edition](https://drive.google.com/open?id=1b0WbjNKj0NfNXw_rlW7yw6ZvVoGT4bbsfuUEJGEtYN8)
-    - Example ORG.JSON: https://gist.github.com/JirkaChadima/913ce9bdfb02f943fdf8ac76f30e3ee2
 
 ## Random tips
 
@@ -47,3 +28,20 @@
 - Write API: https://lisbon-write-api.windingtree.com
 - Search API: https://lisbon-search-api.windingtree.com
 - Hotel explorer: https://hotel-explorer-lisbon.windingtree.com
+
+## Presentations - 2019 Lisbon
+
+### Day 1
+
+- Maksim Izmaylov (Winding Tree): [Conceptual Introduction to Winding Tree](https://docs.google.com/presentation/d/1Ye_9aM2fNLcSndTemeTnuSlzU2OB4XspqaQqCYwzKrM/edit?usp=sharing)
+- Mikoláš Belec (Siesta Cloud)
+    - Siesta Cloud - Explainer: https://youtu.be/3QERRHMMz6w
+    - Siesta Cloud & Winding Tree Tutorial: https://medium.com/siesta-cloud/siesta-cloud-winding-treetutorial-2044608bc209
+- Jakub Vysoký (Winding Tree): [decentralization!](https://docs.google.com/presentation/d/1ssJn1xS9bvGSnSbPgPzOODYzbE0bcc8ydjo2ChfVbVs/edit?usp=sharing)
+
+### Day 2
+
+- Mikoláš Belec (Siesta Cloud): [Small and medium travel businesses in the age of blockchain](https://drive.google.com/open?id=1U-Mi7QE5oEDnXoKxpOa8hsnZuwu6yKLc)
+- Joao Gonzaga (Peakwork): [Blockchain in the travel industry](https://drive.google.com/open?id=1nw6TGbD-eKxLIyrpwaeD2QnF-e6nuZZr)
+- Jirka Chadima (Winding Tree): [Winding Tree Platform Introduction - 2019 edition](https://drive.google.com/open?id=1b0WbjNKj0NfNXw_rlW7yw6ZvVoGT4bbsfuUEJGEtYN8)
+    - Example ORG.JSON: https://gist.github.com/JirkaChadima/913ce9bdfb02f943fdf8ac76f30e3ee2

@@ -1,7 +1,5 @@
 # Winding Tree Hackathon #2 information - Lisbon, Portugal
 
-[**Have a question? Hit us up on Gitter!**](https://gitter.im/windingtree/lisbon-2019-support)
-
 Keep in mind that hackathons are kind of like marathons. Some people participate to compete and win, but most people take part to learn something new and have fun. Whatever the reason is you’re joining us, make sure you’re honoring the hacker spirit by collaborating with other teams, helping beginners, and having fun.
 
 ## Venue
@@ -20,8 +18,6 @@ Rua Rodrigues Faria, 103, 1300 – 501 Lisboa, Portugal](https://www.google.com/
 - Jakub Vysoky - Hackers coordinator <jakub@winidngtree.com>
 - Jirka Chadima - Tech lead <jiri.chadima@fragaria.cz>
 
-Support chat: https://gitter.im/windingtree/lisbon-2019-support
-
 ## Hackers Mentors contacts
 
 - Jakub Vysoky - Winding Tree <jakub@windingtree.com>
@@ -34,15 +30,14 @@ Comittee group of travel experts, engineers, sponsors and Winding Tree core team
 
 ## Judging Criteria
 
-Big inspiration of Winding Tree hackathon juding process was always ETH hackathons [1].
+Big inspiration of Winding Tree hackathon juding process were always
+[ETH hackathons](https://medium.com/ethberlin/open-sourcing-our-judging-process-75b77f6ba459).
 In a nutshell, we are looking at these 4 categories:
 
 * Technicality: How hard was it to build this and how does the quality of the codebase compare?
 * Originality: Is this something completely new or are there already projects with grant funding working on a similar scope?
 * Practicality: How would this submission survive in the real world?
 * WOW Factor: What else is there about the submission? Is it using Winding Tree platform?
-
-[1] https://medium.com/ethberlin/open-sourcing-our-judging-process-75b77f6ba459
 
 ## Prizes
 
