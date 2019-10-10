@@ -1,4 +1,4 @@
-# Winding Tree Hackathon #2 Technical Resources - Lisbon, Portugal
+# Winding Tree Hackathon #3 Technical Resources - London, UK
 
 - **Winding Tree Developers Portal: https://developers.windingtree.com**
 - Winding Tree Debugging Tools: https://debugging-tools.windingtree.com/
@@ -18,30 +18,17 @@
 
 ## Running Winding Tree environment
 
-- Entrypoint: [0x7EB7c3B768D75C740B6d08D3b3eA411B3296ceBB](https://ropsten.etherscan.io/address/0x7EB7c3B768D75C740B6d08D3b3eA411B3296ceBB)
-- 0xORG Factory: [0x78D1548E03660093B51159De0E615ea8F6B9eaF9](https://ropsten.etherscan.io/address/0x78D1548E03660093B51159De0E615ea8F6B9eaF9)
-- Hotels Segment Directory: [0x8ea119A7Ef0Ac4c1a83a3BB6D1aa1a3afcAfDE8b](https://ropsten.etherscan.io/address/0x8ea119A7Ef0Ac4c1a83a3BB6D1aa1a3afcAfDE8b)
-- Líf Deposit: [0x39af806825B81342D51980E2AD96B7A75Ab31CDa](https://ropsten.etherscan.io/address/0x39af806825B81342D51980E2AD96B7A75Ab31CDa)
+[Developer Environments](https://developers.windingtree.com/environments.html)
+
+- WT Entrypoint: [0xa268937c2573e2AB274BF6d96e88FfE0827F0D4D](https://ropsten.etherscan.io/address/0xa268937c2573e2AB274BF6d96e88FfE0827F0D4D)
+- 0xORG Factory: [0x8E6463ea056d812094Ed514455Ab3C88fc23D59C](https://ropsten.etherscan.io/address/0x8E6463ea056d812094Ed514455Ab3C88fc23D59C)
+- Hotels Segment Directory: [0x2c29c421d7fd7be4cc2bfb6d1a44426e43021914](https://ropsten.etherscan.io/address/0x2c29c421d7fd7be4cc2bfb6d1a44426e43021914)
+- Airlines Segment Directory: [0x7d3Ce0d422D381971Eb2bD9615b58f2df5C9f047](https://ropsten.etherscan.io/address/0x7d3Ce0d422D381971Eb2bD9615b58f2df5C9f047)
+- Líf Deposit: [0xfCfD5E296E4eD50B5F261b11818c50B73ED6c89E](https://ropsten.etherscan.io/address/0xfCfD5E296E4eD50B5F261b11818c50B73ED6c89E)
 - Lif Token with a faucet: [0xB6e225194a1C892770c43D4B529841C99b3DA1d7](https://ropsten.etherscan.io/address/0xB6e225194a1C892770c43D4B529841C99b3DA1d7)
 
-- Read API: https://lisbon-api.windingtree.com
-- Write API: https://lisbon-write-api.windingtree.com
-- Search API: https://lisbon-search-api.windingtree.com
-- Hotel explorer: https://hotel-explorer-lisbon.windingtree.com
-
-## Presentations - 2019 Lisbon
-
-### Day 1
-
-- Maksim Izmaylov (Winding Tree): [Conceptual Introduction to Winding Tree](https://docs.google.com/presentation/d/1Ye_9aM2fNLcSndTemeTnuSlzU2OB4XspqaQqCYwzKrM/edit?usp=sharing)
-- Mikoláš Belec (Siesta Cloud)
-    - Siesta Cloud - Explainer: https://youtu.be/3QERRHMMz6w
-    - Siesta Cloud & Winding Tree Tutorial: https://medium.com/siesta-cloud/siesta-cloud-winding-treetutorial-2044608bc209
-- Jakub Vysoký (Winding Tree): [decentralization!](https://docs.google.com/presentation/d/1ssJn1xS9bvGSnSbPgPzOODYzbE0bcc8ydjo2ChfVbVs/edit?usp=sharing)
-
-### Day 2
-
-- Mikoláš Belec (Siesta Cloud): [Small and medium travel businesses in the age of blockchain](https://drive.google.com/open?id=1U-Mi7QE5oEDnXoKxpOa8hsnZuwu6yKLc)
-- Joao Gonzaga (Peakwork): [Blockchain in the travel industry](https://drive.google.com/open?id=1nw6TGbD-eKxLIyrpwaeD2QnF-e6nuZZr)
-- Jirka Chadima (Winding Tree): [Winding Tree Platform Introduction - 2019 edition](https://drive.google.com/open?id=1b0WbjNKj0NfNXw_rlW7yw6ZvVoGT4bbsfuUEJGEtYN8)
-    - Example ORG.JSON: https://gist.github.com/JirkaChadima/913ce9bdfb02f943fdf8ac76f30e3ee2
+- Debugging tools: http://debugging-tools.windingtree.com
+- Read API (v0.15.0): https://madrid-api.windingtree.com
+- Write API (v0.17.0): https://madrid-write-api.windingtree.com
+- Search API (v0.7.1): https://madrid-search-api.windingtree.com
+- Hotel explorer (v0.11.3): https://hotel-explorer-madrid.windingtree.com
