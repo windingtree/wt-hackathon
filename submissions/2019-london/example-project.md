@@ -4,8 +4,6 @@ Here comes a short one liner description of the project.
 
 ## Team Members
 
-* Jakub Vysoky, jakub@windingtree.com, @kvbik
-* Augusto Lemble, augusto@windingtree.com, @AugustoL
 * Full Name, email@address.com, @github
 
 ## Repository
@@ -19,7 +17,7 @@ how to setup the environment, where we can find a running instance, etc. The bet
 documentation for the project, the better chances for you to succeed.
 
 This description can contain couple of paragraphs, some ideas behind the code,
-some technical decission, obstacles you've faced, and so on.
+some technical decision, obstacles you've faced, and so on.
 
 ## Problems
 
