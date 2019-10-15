@@ -53,7 +53,7 @@ TBD
 ## Teams
 
 - You’ll have a chance to meet fellow hackers, discuss ideas and form teams during social times, breakfast, lunch and right after the introductory talks. Check out the [full schedule](https://windingtree.com/hacktravelprogram).
-- At the time of forming teams (2:00pm-2:30pm Now 4th) you will have the opportunity to propose your hack idea to the crowd and invite hackers to join your team. Not everyone will author an idea and that’s fine — if you don’t have one, just join another team.
+- At the time of forming teams (2:00pm-2:30pm Nov 4th) you will have the opportunity to propose your hack idea to the crowd and invite hackers to join your team. Not everyone will author an idea and that’s fine — if you don’t have one, just join another team.
 - All teams must be open for accepting team members. In the spirit of an open source technology hackathon — no closed/private teams please.
 - We don’t have minimum or maximum size for a team, but keep it fair. A team with over 6–7 members might end up having purely people-hours advantage over a 2 members team. If your idea attracted a lot of people — split it up into several projects tackling different angles.
 - We encourage everyone to spend some time to share your knowledge with others - meet the teams, learn what they are working on, offer help, brainstorm, research, provide peer review & feedback, contribute code and have a good time.
