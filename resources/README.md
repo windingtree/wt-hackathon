@@ -16,6 +16,10 @@
 - [web3.js](https://github.com/ethereum/web3.js/) used to have some serious issues with versioning. Use the [latest documented version (1.2.x)](https://web3js.readthedocs.io/) and everything should work.
 - If ETH faucets don't work for you, ask us. We should be able to transfer some Ropsten Ether to you.
 
+## Presentations
+
+TBA
+
 ## Running Winding Tree environments
 
 [Developer Environments](https://developers.windingtree.com/environments.html)
