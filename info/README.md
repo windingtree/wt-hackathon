@@ -13,8 +13,8 @@ Keep in mind that hackathons are kind of like marathons. Some people participate
 ## Team contact information
 
 - Aljona Burdune - Organizer <aljona.burdune@gmail.com>
-- Pedro Anderson - Business hackathon coordinator <pedro@winidngtree.com>
-- Jakub Vysoky - Hackers coordinator <jakub@winidngtree.com>
+- Pedro Anderson - Hackathon coordinator <pedro@windingtree.com>
+- Jakub Vysoky - Hackers coordinator <jakub@windingtree.com>
 - Jirka Chadima - Tech lead <jiri.chadima@fragaria.cz>
 
 ## Hackers Mentors contacts
@@ -40,7 +40,7 @@ In a nutshell, we are looking at these 4 categories:
 
 ## Prizes
 
-TBD
+Read about the challenges and prizes in [our announcement blogpost](https://blog.windingtree.com/announcing-official-hacktravel-london-2019-hackathon-challenges-9f83a8e70444).
 
 ## Hack Projects
 
@@ -64,7 +64,7 @@ See [submissions](https://github.com/windingtree/wt-hackathon/tree/master/submis
 
 ## Presenting
 
-- Every project will get presented at Nov 6 3PM. We prefer to show the presentation from a presenter's laptop to speed things up (but if you have full HDMI port, it should be fine).
+- Every project will get presented at Nov 6 2PM. We prefer to show the presentation from a presenter's laptop to speed things up (but if you have full HDMI port, it should be fine).
 - Each presentation is 3 minutes long + 5 minutes for questions and feedback. We encourage your entire team to come up in front of the audience.
 - The order of presentations will be determined and announced on the spot.
 - All teams are highly encouraged to present their hack to the community. It’s OK if you haven’t finished and your hack is not in its perfect state. The community and the judges will want to see the evidence of your effort and persistence in solving your challenge.
