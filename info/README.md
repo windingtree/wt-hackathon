@@ -17,7 +17,7 @@ Keep in mind that hackathons are kind of like marathons. Some people participate
 - Jakub Vysoky - Hackers coordinator <jakub@windingtree.com>
 - Jirka Chadima - Tech lead <jiri.chadima@fragaria.cz>
 
-[**Have a question? Hit us up on Gitter!**](https://gitter.im/windingtree/hacktravel-london)
+[**Have a question? Hit us up on Telegram!**](https://t.me/joinchat/Mu9OFxPeQd2Ekyf2YYpBdg)
 
 ## Hackers Mentors contacts
 
