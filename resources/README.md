@@ -18,7 +18,7 @@
 
 ## Presentations
 
-TBA
+- @jirkachadima [Winding Tree Platform Introduction](https://docs.google.com/presentation/d/1Zr8h0gnux3-ScQBldN9KX_FwjqjLTMaIP3YImRSH5_M/edit?usp=sharing)
 
 ## Running Winding Tree environments
 
