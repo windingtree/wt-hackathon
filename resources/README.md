@@ -19,7 +19,7 @@
 ## Presentations
 
 - Jirka Chadima: [Winding Tree Platform Introduction](https://docs.google.com/presentation/d/1Zr8h0gnux3-ScQBldN9KX_FwjqjLTMaIP3YImRSH5_M/edit?usp=sharing)
-- Makoto Inoue: [How to use Ethereum+IPFS+ENS to make decentralised website](https://docs.google.com/presentation/d/1D6IleZIsfODl3k50mKvY5WpJxbxOjolzLWgmS9biWfE/edit#slide=id.g65b813f11b_0_0)
+- Makoto Inoue: [How to use Ethereum+IPFS+ENS to make decentralised website](https://speakerdeck.com/makoto_inoue/ens-at-windingtree-hackathon)
 
 ## Running Winding Tree environments
 
