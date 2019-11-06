@@ -1,6 +1,6 @@
 # Winding Tree Booking engine
 
-Here comes a short one liner description of the project.
+Booking engine for Winding Tree hosted hotels with Ethereum payment gate.
 
 ## Team Members
 
