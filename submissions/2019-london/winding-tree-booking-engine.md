@@ -20,7 +20,7 @@ Winding Tree Booking engine is DAPP booking engine, hosted on ENS + IPFS, with c
 Javascript and generally CORS issues
 
 ## Solution
-Both frontend and backend is written is ASP.NET Core with Javascript calls on the frontend. The payment gate uses Metamask plugin for sending Ethereum. Backend uses Etherscan API for checking transactions.
+Backend is written in ASP.NET Core. Frontend is serverless Javascript. The payment gate uses Metamask API for sending Ethereum. The transasction checking uses Etherscan API.
 
 The booking engine is hosted on IPFS using ENS domain name.
 
