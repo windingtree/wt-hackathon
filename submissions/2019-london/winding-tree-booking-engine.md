@@ -14,7 +14,7 @@ https://github.com/siesta-cloud/winding-tree-booking-engine
 
 ## Description
 
-Winding Tree Booking engine is DAPP booking engine, hosted on ENS + IPFS, with crypto settlment and new concept of Transparent Economy trust clue with possibility to embedd to hotel websites, for demonstration embedded to WT org ID explorer.
+Winding Tree Booking engine is DAPP booking engine, hosted on ENS + IPFS, with crypto settlement and new concept of Transparent Economy trust clue with possibility to embedd to hotel websites, for demonstration embedded to WT org ID explorer.
 
 ## Problems
 Javascript and generally CORS issues
