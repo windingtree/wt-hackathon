@@ -26,8 +26,8 @@ The booking engine is hosted on IPFS using ENS domain name.
 
 ## We learned
 
-MetaMask Api
-ENS + IPFS
+MetaMask Api  
+ENS + IPFS  
 ETH - transaction data
 
 ## Extra resources
