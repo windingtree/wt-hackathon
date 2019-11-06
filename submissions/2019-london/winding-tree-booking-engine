@@ -16,12 +16,13 @@ https://github.com/siesta-cloud/winding-tree-booking-engine
 
 Winding Tree Booking engine is DAPP booking engine, hosted on ENS + IPFS, with crypto settlment and new concept of Transparent Economy trust clue with possibility to embedd to hotel websites, for demonstration embedded to WT org ID explorer.
 
-Both frontend and backend is written is ASP.NET Core with Javascript calls on the frontend. The payment gate uses Metamask plugin for sending Ethereum. Backend uses Etherscan API for checking transactions.
-
 ## Problems
 Javascript and generally CORS issues
 
 ## Solution
+Both frontend and backend is written is ASP.NET Core with Javascript calls on the frontend. The payment gate uses Metamask plugin for sending Ethereum. Backend uses Etherscan API for checking transactions.
+
+The booking engine is hosted on IPFS using ENS domain name.
 
 ## We learned
 
@@ -31,5 +32,4 @@ ETH - transaction data
 
 ## Extra resources
 
-* link to presentation (and/or)
-* http://wt-booking-engine.azurewebsites.net
+* http://wtbooking.eth.link
