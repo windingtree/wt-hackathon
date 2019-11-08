@@ -49,5 +49,5 @@ FFT-algorithm coded in JavaScript
 ## Extra resources
 
 https://openbooks.itmo.ru/read_ntv/3824/3824.pdf - ITMO university publication
-https://drive.google.com/file/d/1IvwFv_cOmABEzD1_TggWlqSf7FAJVryr/view?usp=sharing - presentation
+https://drive.google.com/file/d/1IvwFv_cOmABEzD1_TggWlqSf7FAJVryr/view?usp=sharing - presentation ([PDF](https://drive.google.com/file/d/1xlFT7JIQQWmYoh4qp3KEPgxn5QfkiIeY/view?usp=sharing))
 
